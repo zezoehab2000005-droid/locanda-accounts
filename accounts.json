@@ -6,6 +6,13 @@
    "expires": "2026-10-06",
    "salt": "c66f9ad5c0dd85fbfc4efaae0e4212bd",
    "hash": "0a8254980288b147c6d4fc7cd49c976b56d7009a5efaa1d9ab6c77034884bfab"
+  },
+  {
+   "id": "783ae8873159939acd7ddd3f83add1e5ecafb7ffdfe90d222538f0a7d9542b91",
+   "active": true,
+   "expires": "2026-11-04",
+   "salt": "e9ce5dd532280b33b9c1ee87b9c89138",
+   "hash": "764d676f09b850206c74b6cf38b66db0d0354daf0800357ffafcd78fe2f0ed49"
   }
  ]
 }
