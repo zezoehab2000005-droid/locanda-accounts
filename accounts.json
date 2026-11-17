@@ -13,6 +13,13 @@
    "expires": "2026-11-04",
    "salt": "e9ce5dd532280b33b9c1ee87b9c89138",
    "hash": "764d676f09b850206c74b6cf38b66db0d0354daf0800357ffafcd78fe2f0ed49"
+  },
+  {
+   "id": "64e81f316b3dda33cf434145517d20934d1127ddb1dc33188663d35803ea90e2",
+   "active": true,
+   "salt": "a298eb30fd4b47d1d3c5e31be7aca850",
+   "hash": "9b660a102435f796c7c05474bf90bfd582218c8e159b645bb5498f2a82c30c5b",
+   "expires": null
   }
  ]
 }
