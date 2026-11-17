@@ -2,7 +2,7 @@
  "accounts": [
   {
    "id": "e02f521d878dde68f2e7d4f0739a40cf710141d04b9a466ffc278f3704a1684e",
-   "active": false,
+   "active": true,
    "expires": "2026-10-06",
    "salt": "c66f9ad5c0dd85fbfc4efaae0e4212bd",
    "hash": "0a8254980288b147c6d4fc7cd49c976b56d7009a5efaa1d9ab6c77034884bfab"
